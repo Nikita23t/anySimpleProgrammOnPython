@@ -1,6 +1,6 @@
 # anySimpleProgrammOnPython
 
-DataBase for psql:
+DataBase for simpleExampleBackupPSQL:
 
 CREATE TABLE orders (
     order_id SERIAL PRIMARY KEY,
